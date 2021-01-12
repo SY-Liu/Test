@@ -1,8 +1,6 @@
 # Test
 
-Hello World!
-
-Test 6
+This is README.
 
 
 
