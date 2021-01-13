@@ -1,7 +1,3 @@
 # Test
 
 This is README.
-
-
-
-
